@@ -4,7 +4,7 @@
 
 ## About :
 
-Online clothing store template includes:
+Online Restaurant template includes:
 
 1. landing page
 
